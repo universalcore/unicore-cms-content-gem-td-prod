@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "fre_FR", 
+  "title": "Conseils d'utilisation ", 
+  "primary_category": null, 
+  "created_at": "2014-12-01T04:10:10+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-01T04:10:10+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Il y a quelques r\u00e8gles de base que vous devez suivre pour vous assurer que vous et les autres restez en s\u00e9curit\u00e9 et profitez de l'utilisation du site web mobile GirlEffect. Si vous enfreignez ces r\u00e8gles, vous pourrez recevoir un avertissement, une interdiction temporaire ou permanente. Ces r\u00e8gles sont :\r\n\r\n - Le harc\u00e8lement et l'intimidation des autres ne seront pas tol\u00e9r\u00e9s.\r\n - Le respecte des utilisateurs plus jeunes et la non utilisation d'un\r\n   mauvais langage, grossier ou injurieux ou la proposition des liens\r\n   vers du mat\u00e9riel obsc\u00e8ne ou offensant.\r\n - Ne donnez pas vos informations personnelles. Ne dis jamais \u00e0 personne:\r\n         \r\n            - ton vrai nom (invente un pseudonyme),\r\n            - ton \u00e2ge,\r\n            - ton adresse,\r\n            - le nom de ton \u00e9cole,\r\n            - ton adresse e-mail ou ton num\u00e9ro de t\u00e9l\u00e9phone, ou\r\n            - toute information financi\u00e8re ou mots de passe.\r\n\r\n\u00c9vite les rendez-vous avec les gens que tu as rencontr\u00e9s en ligne.  Mais si tu vas \u00e0 leur rencontre, assure-toi d'\u00eatre avec un adulte, ou ton parent ou un tuteur. \r\n\r\n\r\n\r\nSi tu as moins de 13 ans, tu ne dois pas utiliser ces services \u00e0 moins d'avoir l'autorisation de ton parent ou tuteur et que tu utilise ces services sous leur supervision.  Le site web mobile de Girl Effect est appropri\u00e9 pour les utilisateurs de 13 ans et plus. ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 125, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "tips", 
+  "uuid": "f969c43b8fef48279d41a177e5419113"
+}
